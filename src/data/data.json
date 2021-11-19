@@ -1,0 +1,186 @@
+{
+  "Header": {
+    "title": "We are \n Donkey Hole",
+    "paragraph": "History's first NFT project dedicated to donkey buttholes."
+  },
+  "About": {
+    "paragraphs": ["The NFT art space has been referred to by both outsiders and insiders alike as \"the dumbest thing I've ever seen/heard/done.\" But that hasn't been completely true.... Until now.",
+      "Donkey Hole is hands-down the dumbest NFT project ever embarked upon. It is a project dedicated exclusively to, well, donkey holes, specifically, donkey buttholes. If you're the type of person that likes to live their life in the absolute dumbest way possible, so dumb that when your sister tells her grandkids about you (because you obviously don't have children of your own) they won't believe she's talking about a person that actually existed, then congratulations, you're one of us.",
+      "The first collection's mint date is scheduled for sometime around the lord's alleged birthday, 2021, and will feature 8,888 pieces of generative NFT art composed of hand-drawn attributes, one of which is of course, butthole.",
+    "We took great pleasure in forcing our artist to painstakingly render images of butthole after butthole, which resulted in this list of attributes of varying rarity."],
+    "Attributes": [
+      "Donkey Character",
+      "Posture",
+      "Donkey Color",
+      "Background"
+    ],
+    "Attributes2": [
+      "Body Type",
+      "Fashion Accessories",
+      "Butthole Accessories",
+      "And of course...",
+      "Butthole!"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Hot Girl Donkey, Fire Butthole",
+      "largeImage": "img/portfolio/0.png",
+      "smallImage": "img/portfolio/0.png"
+    },
+    {
+      "title": "Standard Donkey, Goatse Butthole",
+      "largeImage": "img/portfolio/7.png",
+      "smallImage": "img/portfolio/7.png"
+    },
+    {
+      "title": "Chinaman Donkey, Yin Yang Butthole",
+      "largeImage": "img/portfolio/6.png",
+      "smallImage": "img/portfolio/6.png"
+    },
+    {
+      "title": "Demon Donkey, Regular Butthole",
+      "largeImage": "img/portfolio/8.png",
+      "smallImage": "img/portfolio/8.png"
+    },
+    {
+      "title": "Bent Over Donkey, Poopy Diaper",
+      "largeImage": "img/portfolio/9.png",
+      "smallImage": "img/portfolio/9.png"
+    },
+    {
+      "title": "Chinaman Donkey, Human Butthole",
+      "largeImage": "img/portfolio/3.png",
+      "smallImage": "img/portfolio/3.png"
+    },
+    {
+      "title": "Hot Girl Donkey, Pride Butthole",
+      "largeImage": "img/portfolio/1.png",
+      "smallImage": "img/portfolio/1.png"
+    },
+    {
+      "title": "Bent Over Donkey, Body of Christ Butthole",
+      "largeImage": "img/portfolio/4.png",
+      "smallImage": "img/portfolio/4.png"
+    },
+    {
+      "title": "Standard Donkey, Thick Body",
+      "largeImage": "img/portfolio/11.png",
+      "smallImage": "img/portfolio/11.png"
+    }
+  ],
+  "Why": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/chinaman.png",
+      "name": "@hardscarf",
+      "job": "Developer",
+      "bio": "hardscarf is an AI software engineer with mild arthritis who is fascinated with blockchains' potential to create rich lives in the metaverse. As a child he often cried when he saw dead animals, so he is very excited to be part of a project that champions one."
+    },
+    {
+      "img": "img/team/demon.png",
+      "name": "@steakdaddy",
+      "job": "Community Builder",
+      "bio": "steak is the visionary behind Donkey Hole and an experienced community manager, as well as a former adult film star. As a child, he often tormented animals and people for fun, but has since fortunately grown out of the habit. He has always loved buttholes, and has made quite a bit of money from them in the past."
+    },
+    {
+      "img": "img/team/Girl.png",
+      "name": "@jailbaitpony",
+      "job": "Artist",
+      "bio": "jailbaitpony is the only one here with any artistic ability, or more accurately, the only one with an iPad. She was more or less coerced into this project initially, but has since begun to really believe in it. Could be a classic case of Stockholm. She may or may not be underage. Also she may or may not be a girl."
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}

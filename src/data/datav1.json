@@ -1,0 +1,196 @@
+{
+  "Header": {
+    "title": "We are \n Donkey Hole",
+    "paragraph": "History's first NFT project dedicated to donkey buttholes."
+  },
+  "About": {
+    "paragraphs": ["When presented an image, most humans tend to look at the subject's face or eyes first. If you saw the picture to the left and instead looked at this donkey's butthole, then congratulations, you're one of us.",
+      "Donkey Hole is an NFT project dedicated exclusively to, well, donkey holes, specifically, donkey buttholes. The first collection's mint date is scheduled for sometime around Christ's (Jesus) birthday, 2021, and will feature 8,888 pieces of generative NFT art composed of hand-drawn attributes, one of which, is butthole.",
+    "We took great pleasure out of forcing our artist to painstakingly render images of butthole after butthole, which resulted in this list of attributes of varying rarity."],
+    "Attributes": [
+      "Donkey Character",
+      "Posture",
+      "Donkey Color",
+      "Background"
+    ],
+    "Attributes2": [
+      "Body Type",
+      "Fashion Accessories",
+      "Butthole Accessories",
+      "And of course...",
+      "Butthole!"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Why": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/chinaman.png",
+      "name": "@hardscarf",
+      "job": "Developer",
+      "bio": "hardscarf is an AI software engineer with mild arthritis who is fascinated with blockchains' potential to create rich lives in the metaverse. As a child he often cried when he saw dead animals, so he is very excited to be part of a project that champions one."
+    },
+    {
+      "img": "img/team/demon.png",
+      "name": "@steakdaddy",
+      "job": "Community Builder",
+      "bio": "steak is the visionary behind Donkey Hole and an experienced community manager, as well as a former adult film star. As a child, he often tormented animals and people for fun, but has since fortunately grown out of the habit. He has always loved buttholes, and has made quite a bit of money from them in the past."
+    },
+    {
+      "img": "img/team/Girl.png",
+      "name": "@jailbaitpony",
+      "job": "Artist",
+      "bio": "jailbaitpony is the reluctant artist behind Donkey Hole. She was more or less coerced into this project initially, but has since begun to really believe in it. Could be a classic case of Stockholm. While her name is jailbaitpony, she would prefer her age to remain confidential. And for that matter her gender as well. In fact, she would prefer you don't think about her at all."
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
+h2>Why?</h2>
+          <p>
+            Donkey Hole is about embracing the future while acknowledging our roots, and donkeys are the most important yet underappreciated animals in the history of humankind. The great Egyptian Pyramids, Rome, and even America as we know it were literally built on the backs of donkeys. So even though we are at the cusp of a technological revolution carried by blockchain and the metaverse, we must never forget how we got here. Carried by donkeys.
+          </p>
+          <h2>Why Buttholes?</h2>
+          <p>
+            Much like donkeys, buttholes are one of the most underappreciated pieces of human anatomy. Unless you're currently suffering from hemorrhoids, are anxious about an upcoming colonoscopy, or are a sexual deviant like us, you most likely don't spend much time thinking about buttholes on a daily basis. And even in the most adventurous of communitites, buttholes are often referred to as "the third best hole." But what we seem to forget is that without buttholes, as they say: we ain't shit. 
+          </p>
+          <p>
+            Finally, and perhaps most importantly, buttholes bring a smile to our face. Life is too short to be all serious all the time. Wherever you are on the planet, think back to your childhood. Before the stresses of adulthood took your joy away. And remember the feeling, oh how much fun it was to take ten fingers and rip open your cheeks to expose your youthful butthole to unsuspecting pedestrians from the window of a passing bus. After all, this is about remembering our roots.
+          </p>
