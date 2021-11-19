@@ -1,5 +1,3 @@
-import donkey from "../images/Untitled1_20211117173135.png"
-
 export const Header = (props) => {
   return (
     <header id='header'>
