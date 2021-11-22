@@ -1,3 +1,5 @@
+import { Route, Routes } from 'react-router'
+
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -47,19 +49,20 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href='#discord' className='page-scroll'>
+              <a href='https://discord.gg/HyVCP8RZ
+https://discord.gg/HyVCP8RZ' className='page-scroll'>
                 Discord
               </a>
             </li>
             <li>
-              <a href='#insta' className='page-scroll'>
+              <a href='https://www.instagram.com/donkeyholenft' className='page-scroll'>
                 IG
               </a>
             </li>
             <li>
-              <a href='#twitter' className='page-scroll'>
+              {/* <a href='#twitter' className='page-scroll'>
                 Twitter
-              </a>
+              </a> */}
             </li>
           </ul>
         </div>
