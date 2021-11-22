@@ -5,10 +5,10 @@ export const Why = (props) => {
         <div className='section-title'>
           <h2>Why?</h2>
           <p>
-            When the creators of Donkey Hole decided the time was right to create the dumbest thing that has ever existed, they each sat down and started sketching ideas. When they convened several minutes later to compare, they were shocked. They had both drawn nearly identical drawings. A bent over donkey, flashing his butthole.
+            The NFT space is full of projects that are all about status. Owners of those NFTs can flex their rare holdings for the world and metaverse to see. You will get no status from owning a Donkey Hole. If anything, you will look like a pariah to the world at large and many of your friends and family members may begin to distance themselves from you. Because who in their right mind would flex donkey buttholes? Verifiable idiots, that's who.
           </p>
           <p>
-            But in hindsight, this isn't shocking at all. It all makes sense. Donkeys are objectively a funny animal, and buttholes are objectively a funny piece of anatomy. And what is the point of creating the dumbest thing that has ever existed in the history of human civilization other than to have a fun time. This project is meant to bring us back to childhood, back before the stresses of the world took all our joy away. To back when the epitome of joy was the feeling of pulling our pants down, using 10 fingers to pry open our butt cheeks, and exposing our bright young hole to a group of unsuspecting pedestrians from the window of a passing bus. 
+            We are starting with NFTs, but that's not all. From merch to events and billboards in major cities, we want more than anything for Donkey Buttholes to be plastered everywhere. We want people to see Donkey Holes when they least expect it, and be shocked, surprised, and baffled at how dumb the world is that we live in. 
           </p>
         </div>
       </div>
