@@ -18,9 +18,10 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            Donkey Hole NFT
+            Dumb Ape Shark Tank
           </a>{' '}
-          <div className="subhead">The dumbest NFT of all time</div>
+          <div className="subhead">So dumb, it just might work.</div>
+          <div className="subhead">Season 1 Coming Soon.</div>
         </div>
 
         <div

@@ -1,26 +1,13 @@
 {
   "Header": {
-    "title": "We are \n Donkey Hole",
-    "paragraph": "History's first NFT project dedicated to donkey buttholes."
+    "title": "Dump Ape Shark Tank",
+    "paragraph": "An NFT-powered pitch competition, bringing the dumbest ideas to life."
   },
   "About": {
-    "paragraphs": ["The NFT art space has been referred to by both outsiders and insiders alike as \"the dumbest thing I've ever seen/heard/done.\" But that hasn't been completely true.... Until now.",
-      "Donkey Hole is hands-down the dumbest NFT project ever embarked upon. It is a project dedicated exclusively to, well, donkey holes, specifically, donkey buttholes. If you're the type of person that likes to live their life in the absolute dumbest way possible, so dumb that when your sister tells her grandkids about you (because you obviously don't have children of your own) they won't believe she's talking about a person that actually existed, then congratulations, you're one of us.",
-      "The first collection's mint date is scheduled for sometime around the lord's alleged birthday, 2021, and will feature 8,888 pieces of generative NFT art composed of hand-drawn attributes, one of which is of course, butthole.",
-    "We took great pleasure in forcing our artist to painstakingly render images of butthole after butthole, which resulted in this list of attributes of varying rarity."],
-    "Attributes": [
-      "Donkey Character",
-      "Posture",
-      "Donkey Color",
-      "Background"
-    ],
-    "Attributes2": [
-      "Body Type",
-      "Fashion Accessories",
-      "Butthole Accessories",
-      "And of course...",
-      "Butthole!"
-    ]
+    "paragraphs": ["Sex toys for pets. Mood rings for the deceased. These are the types of idiotic business ideas we want to help create here at Dumb Ape Shark Tank. Pitch your idea, win, and bring it to life.",
+      {"header": "What it is", "text": "Dumb Ape Shark Tank is like the popular show Shark Tank, except only for dumb ideas. We use NFTs to determine the participants and voting mechanisms. The dumbest idea wins a prize fund of ETH from the mint sales."},
+      {"header": "How it works", "text": "Each Dumb Ape NFT is a ticket. Tickets are your chance to make it into the pitch competition. For those not pitching, they represent your voting rights. Your ticket is worth more or less depending on its attributes. For example, one Dumb Ape might be worth 10 points, while another Ape with rarer attributes might be worth 100. The total number of points you own across all your Apes will determine your probability of getting selected to pitch your idea, and how many votes you have."},
+      {"header": "Prize Fund", "text": "40% of sales from NFT minting will be pooled into a prize fund. The winner of the pitch competition, the Ape with the dumbest idea, will receive the entire prize fund in ETH, and the opportunity to bring their idea to life in the real world."}]
   },
   "Gallery": [
     {
@@ -69,38 +56,16 @@
       "smallImage": "img/portfolio/11.png"
     }
   ],
-  "Why": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
+  "Why": {
+    "items": [
+      {"header": "Pre-Mint (Present - February, 2022)", "text": "In the pre-mint phase, the Dumb Ape team will spread the word and build the community for Dumb Ape Shark Tank. Now is the time to start thinking of dumb business ideas you might want to pitch."},
+      {"header": "Mint Start (February, 2022)", "text": "Dumb Ape Shark Tank NFTs will become available to mint in February, 2022. This is when you can start collecting tickets for a chance to pitch your dumbest idea."},
+      {"header": "Post-Mint Ticket Collection", "text": "We give you about two weeks after the initial mint date before selecting the participants for the pitch competition. This time can be used to mint more NFTs or to purchase rare, already-minted NFTs on secondary markets to increase your chances of being selected."},
+      {"header": "Participant Selection (March, 2022)", "text": "In March, 2022, we will officially select and announce the NFT holders that get to pitch their dumbest business idea for the chance to win up to 80 ETH."},
+      {"header": "Pitching and Voting (March-April, 2022)", "text": "Once the participants have been contacted and confirmed, they will be given a week to finalize their pitches. Then, pitching and voting will begin."},
+      {"header": "Winner Announcement and Prize Allocation (April, 2022)", "text": "The community has spoken! The pitch with the most votes for dumbest business idea will win 100% of the Prize Fund."}
+]
+  },
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",

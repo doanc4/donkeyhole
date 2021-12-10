@@ -9,32 +9,14 @@ export const About = (props) => {
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
-              <h2>About Donkey Hole</h2>
-              {props.data ? props.data.paragraphs.map((par) => (
-                <p> {par} </p>
+              <h2>About Dumb Ape Shark Tank</h2>
+              {props.data ? props.data.paragraphs.map((data) => (
+                <div>
+                <div className="h4"> {data.header ? data.header : null} </div>
+                <p> {data.text ? data.text : data} </p>
+                </div>
+
               )) : "loading"}
-              <p>{props.data ? props.data.paragraph : "loading..."}</p>
-              <h3>Art Attributes</h3>
-              <div className="list-style">
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Attributes.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div>
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Attributes2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div>
-              </div>
             </div>
           </div>
         </div>
